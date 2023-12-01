@@ -1,0 +1,14 @@
+Integrante 1: Silvia Tovar Herrera
+- En este apartado el integrante creó el repositorio en GitHub llamado 'GRUPO1DAW23, en el que seguidamente ha añadido como colaboradores a los demás integrantes del grupo y dado acceso a cada uno  de ellos para poder acceder al respositorio de manera individual y asi visualizar todo el contenido que vayamos subiendo.
+- A continuación realiza el fichero valoraciones.txt con la opinión de todos los integrantes del grupo sobre la práctica.
+
+Integrantes 2: Francisco Javier Jiménez Franco y Jose Antonio Perales Bayón
+- En este apartado los integrantes crean la base de datos en CDMON.
+- Seguidamente conectan el directorio al repositorio en GitHub, anteriormente creado.
+- Actualizan el repositorio añadiendo el archivo Model.php dentro de la carpeta app.
+- A continuacion añaden el fichero instalacion.txt donde explican los pasos del proceso que han seguido.
+	
+Integrante 3: Lucía Díaz Vivero
+- En este apartado el integrante recopila todos los pasos que realizan sus compañeros.
+- A continuación edita el fichero Config.php con los datos que les proporcionan los integrantes 2.
+	
