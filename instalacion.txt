@@ -1,0 +1,7 @@
+1. Nos conectamos a nuestra cuenta cdmon y creamos una base de datos, posteriormente nos metemos en phpmyadmin con el usuario y contraseña correspondiente y copiamos el script para crear 
+la tabla.
+
+2. Creamos una carpeta y lo conectamos con el repositorio de git. 
+
+3. Desde el bash entramos al repositorio y añadimos el archivo Model.php, para poder añadirlo hacemos un add de este archivo, un commit para comentar su subida y por ultimo hacer un push -u
+para añadirlo al repositorio.
