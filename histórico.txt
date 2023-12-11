@@ -11,4 +11,7 @@ Integrantes 2: Francisco Javier Jiménez Franco y Jose Antonio Perales Bayón
 Integrante 3: Lucía Díaz Vivero
 - En este apartado el integrante recopila todos los pasos que realizan sus compañeros.
 - A continuación edita el fichero Config.php con los datos que les proporcionan los integrantes 2.
+
+URL de el hosting desplegado:
+http://grupo1232:SYGqAM3v@www.grupo1daw23.com.mialias.net/
 	
